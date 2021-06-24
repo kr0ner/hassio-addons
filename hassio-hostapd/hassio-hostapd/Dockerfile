@@ -1,8 +1,6 @@
 ARG BUILD_FROM
 FROM $BUILD_FROM
 
-MAINTAINER David Ramos <info@davidramosweb.com>
-
 # Set shell
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
