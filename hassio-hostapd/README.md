@@ -13,6 +13,8 @@ To use this repository with your own Hass.io installation please follow [the off
 https://github.com/kr0ner/hassio-addons
 ```
 
+Also install [DHCP server](https://github.com/home-assistant/addons/blob/master/dhcp_server/README.md) and set domain to e.g. "homeassistant" and change the ```interface: wlan0```
+
 ### Configuration
 
 The available configuration options are as follows (this is filled in with some example data):
